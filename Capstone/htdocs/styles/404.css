@@ -1,0 +1,9 @@
+*{
+    background-image: url("404error.png");
+    background-color: gainsboro;
+    background-size: 50%;
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
